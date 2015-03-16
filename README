@@ -1,0 +1,4 @@
+Search the mission for observations which lost more than one fid light.
+
+fid_drop_list.txt has the last output from the tool.
+

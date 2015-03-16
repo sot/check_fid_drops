@@ -1,0 +1,167 @@
+Searching dwells from 1999:001 for fid drops which occur more
+than 450 secs before the end of the dwell.  Uses the first value
+of AOIMAGE for the slot to determine if it should be a FID
+
+Fids lost for dwell at 1999:242:23:31:59.988
+Fid 0 lost at 52458168.65 (dwell stop - 30894.525796 secs)
+Fid 1 lost at 52451262.20 (dwell stop - 37800.976044 secs)
+Fid 2 lost at 52454683.65 (dwell stop - 34379.525921 secs)
+HRC shutter test 1201
+
+Fids lost for dwell at 1999:245:05:13:05.795
+Fid 1 lost at 52636951.20 (dwell stop - 1912.650374 secs)
+Fid 2 lost at 52636889.70 (dwell stop - 1974.150376 secs)
+HRC shutter test 1211 processed 1 fid
+
+Fids lost for dwell at 1999:245:05:58:40.495
+Fid 0 lost at 52639699.23 (dwell stop - 1963.900275 secs)
+
+Fids lost for dwell at 1999:245:07:32:01.095
+Fid 2 lost at 52645299.83 (dwell stop - 1963.900074 secs)
+
+Fids lost for dwell at 1999:245:09:05:25.795
+Fid 2 lost at 52650896.33 (dwell stop - 1966.974873 secs)
+
+Fids lost for dwell at 1999:245:09:51:57.895
+Fid 1 lost at 52653757.10 (dwell stop - 1906.499770 secs)
+
+Fids lost for dwell at 1999:263:11:34:23.551
+Fid 2 lost at 54228862.36 (dwell stop - 20121.775237 secs)
+
+Fids lost for dwell at 1999:271:22:22:42.883
+Fid 0 lost at 54958912.49 (dwell stop - 76147.252635 secs)
+
+Fids lost for dwell at 1999:347:21:44:43.620
+Fid 0 lost at 61515592.75 (dwell stop - 1956.724991 secs)
+Fid 1 lost at 61515593.78 (dwell stop - 1955.699991 secs)
+Fid 2 lost at 61515592.75 (dwell stop - 1956.724991 secs)
+Obsid 1507 SI Safing test
+
+Fids lost for dwell at 2000:136:17:26:41.359 Obsid 893
+Fid 0 lost at 74810640.74 (dwell stop - 8835.499990 secs)
+
+Fids lost for dwell at 2000:304:09:42:27.799 Obsid 2245
+Fid 2 lost at 89287594.71 (dwell stop - 7980.650410 secs)
+
+Fids lost for dwell at 2000:319:00:37:07.546 Obsid 2121
+Fid 2 lost at 90622962.71 (dwell stop - 3550.599848 secs)
+
+Fids lost for dwell at 2000:349:14:53:52.947 Obsid 1008
+Fid 1 lost at 93192925.83 (dwell stop - 1471.899685 secs)
+
+Fids lost for dwell at 2000:349:15:24:01.047 Obsid 2341
+Fid 0 lost at 93194847.71 (dwell stop - 1410.399612 secs)
+
+Fids lost for dwell at 2000:349:16:25:59.748 Obsid 2343
+Fid 2 lost at 93198566.41 (dwell stop - 1483.175469 secs)
+
+Fids lost for dwell at 2001:010:19:25:32.137 Obsid 2411
+Fid 1 lost at 95542247.45 (dwell stop - 6071.075723 secs)
+
+Fids lost for dwell at 2001:010:21:16:10.038 Obsid 2414
+Fid 1 lost at 95549189.77 (dwell stop - 5638.525457 secs)
+
+Fids lost for dwell at 2001:045:19:36:07.854 Obsid 597
+Fid 2 lost at 98585872.31 (dwell stop - 98306.728616 secs)
+
+Fids lost for dwell at 2001:100:18:06:51.837 Obsid 2080
+Fid 1 lost at 103354445.15 (dwell stop - 33565.676250 secs)
+
+Fids lost for dwell at 2001:262:19:35:19.185 Obsid 1885
+Fid 1 lost at 117394298.12 (dwell stop - 23133.225970 secs)
+
+Fids lost for dwell at 2001:294:08:55:53.693 Obsid 2365
+Fid 2 lost at 120044966.68 (dwell stop - 21138.575824 secs)
+
+Fids lost for dwell at 2001:323:03:01:14.992 Obsid 2679
+Fid 2 lost at 122559716.13 (dwell stop - 17425.000664 secs)
+
+Fids lost for dwell at 2001:325:14:31:23.601 Obsid 3389
+Fid 0 lost at 122796026.81 (dwell stop - 71198.553219 secs)
+Fid 1 lost at 122743772.31 (dwell stop - 123453.055308 secs)
+3389 all fids lost SCS107
+
+Fids lost for dwell at 2002:148:05:41:48.856 Obsid 3393
+Fid 2 lost at 139023747.52 (dwell stop - 88766.028432 secs)
+
+Fids lost for dwell at 2002:235:17:52:31.066 Obsid 2783
+Fid 0 lost at 146522025.65 (dwell stop - 20382.125669 secs)
+Fid 1 lost at 146541517.05 (dwell stop - 890.724865 secs)
+2783 all fids lost SCS107
+
+Fids lost for dwell at 2003:269:19:55:48.417 Obsid 3831
+Fid 0 lost at 180993416.70 (dwell stop - 9156.325829 secs)
+
+Fids lost for dwell at 2005:147:00:56:19.250 Obsid 5690
+Fid 2 lost at 233554389.93 (dwell stop - 104374.729381 secs)
+
+Fids lost for dwell at 2005:234:08:13:27.895 Obsid 5934
+Fid 1 lost at 241120235.08 (dwell stop - 6739.375337 secs)
+Fid 2 lost at 241109042.08 (dwell stop - 17932.375850 secs)
+5934 all fids lost SCS107
+
+Fids lost for dwell at 2005:282:19:25:38.988 Obsid 5438
+Fid 1 lost at 245301801.70 (dwell stop - 41586.302161 secs)
+
+Fids lost for dwell at 2007:218:19:44:58.093 Obsid 7742
+Fid 2 lost at 302820719.78 (dwell stop - 111306.805502 secs)
+
+Fids lost for dwell at 2007:302:23:50:52.943 Obsid 9741
+Fid 1 lost at 310093688.60 (dwell stop - 2220.150418 secs)
+
+Fids lost for dwell at 2009:040:06:02:02.732 Obsid 9931
+Fid 2 lost at 350572330.77 (dwell stop - 9735.450120 secs)
+
+Fids lost for dwell at 2009:355:13:07:56.195 Obsid 11992
+Fid 1 lost at 377795403.48 (dwell stop - 11675.776065 secs)
+
+Fids lost for dwell at 2010:061:13:18:19.205 Obsid 10967
+Fid 2 lost at 383937319.61 (dwell stop - 15531.826117 secs)
+
+Fids lost for dwell at 2011:299:04:59:47.908 Obsid 12370
+Fid 0 lost at 435992536.09 (dwell stop - 75990.429396 secs)
+Fid 1 lost at 435992536.09 (dwell stop - 75990.429396 secs)
+Fid 2 lost at 435992536.09 (dwell stop - 75990.429396 secs)
+12370 all fids lost SCS107
+
+Fids lost for dwell at 2012:021:08:52:33.505 Obsid 13822
+Fid 2 lost at 443610026.94 (dwell stop - 75778.253569 secs)
+
+Fids lost for dwell at 2012:200:23:08:26.600 Obsid 14465
+Fid 2 lost at 459079474.34 (dwell stop - 6196.125751 secs)
+
+Fids lost for dwell at 2012:247:02:10:29.813 Obsid 13780
+Fid 2 lost at 463047812.27 (dwell stop - 16536.325611 secs)
+
+Fids lost for dwell at 2013:076:07:42:19.121 Obsid 14687
+Fid 0 lost at 479911300.76 (dwell stop - 2287.799837 secs)
+Fid 1 lost at 479911300.76 (dwell stop - 2287.799837 secs)
+Fid 2 lost at 479911300.76 (dwell stop - 2287.799837 secs)
+{} all fids lost SCS107 (missing in kadi.events due to known bug)
+
+Fids lost for dwell at 2013:152:20:46:51.679 Obsid 15315
+Fid 0 lost at 486516333.46 (dwell stop - 728.775043 secs)
+
+Fids lost for dwell at 2014:039:09:38:42.967 Obsid 15306
+Fid 0 lost at 508243594.83 (dwell stop - 6823.425415 secs)
+
+Fids lost for dwell at 2014:067:15:33:27.102 Obsid 16090
+Fid 2 lost at 510719190.34 (dwell stop - 31560.777037 secs)
+
+Fids lost for dwell at 2014:187:12:35:41.574 Obsid 16630
+Fid 0 lost at 521069266.78 (dwell stop - 8126.200560 secs)
+Fid 1 lost at 521069270.88 (dwell stop - 8122.100560 secs)
+Fid 2 lost at 521069262.68 (dwell stop - 8130.300561 secs)
+16630 all fids lost SCS107
+
+Fids lost for dwell at 2014:274:16:10:32.991 Obsid 17422
+Fid 1 lost at 528586204.13 (dwell stop - 31028.801661 secs)
+
+Fids lost for dwell at 2015:048:04:47:51.658 Obsid 16091
+Fid 0 lost at 540561379.22 (dwell stop - 2730.600380 secs)
+Fid 1 lost at 540537135.92 (dwell stop - 26973.901754 secs)
+obsid 16091 two fid drop
+
+SCS107 for 16344, which isn't caught by this script
+because the fids are all lost within the last 450 secs
+of the observation
